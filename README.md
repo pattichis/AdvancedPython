@@ -7,4 +7,4 @@ The goal of the repository is to provide advanced Python examples.
 
 ## Cuda:
 To run fast algorithms on Cuda, follow
-[RAPIDS installation and basic examples](https://github.com/pattichis/AdvancedPython/blob/main/RAPIDS.ipynb)
+[RAPIDS installation and DBScan clustering example](https://github.com/pattichis/AdvancedPython/blob/main/RAPIDS.ipynb).
