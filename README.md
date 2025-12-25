@@ -6,5 +6,5 @@ The goal of the repository is to provide advanced Python examples.
 [FastPython.ipynb](https://github.com/pattichis/AdvancedPython/blob/main/FastPython.ipynb) demonstrates the speedups using NumPy and Numba with CPUs and GPUs.
 
 ## Cuda:
-Use [rapidsai Google Colab installation](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/rapids-pip-colab-template.ipynb) for high-performance implementations of Machine Learning algorithms.
-
+To run fast algorithms on Cuda, follow
+[RAPIDS installation and basic examples](https://github.com/pattichis/AdvancedPython/blob/main/RAPIDS.ipynb)
