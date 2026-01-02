@@ -10,6 +10,11 @@ The list includes general-purpose foundation models (e.g., SAM3D) and essential 
  
 [Speed up Python for pairwise distances calculation up from 164X using NumPy, 188X using njit, and up to 800X using Cuda threads](https://github.com/pattichis/AdvancedPython/blob/main/FastPython.ipynb). The example demonstrates speedups with NumPy and Numba on CPUs and GPUs.
 
-## Cuda:
+## Cuda
+[Cuda programming model](https://developer.nvidia.com/blog/cuda-refresher-cuda-programming-model/).
+
 To run fast algorithms on Cuda, follow
 [RAPIDS installation and DBScan clustering example](https://github.com/pattichis/AdvancedPython/blob/main/RAPIDS.ipynb).
+
+## Apple Silicon
+You can run machine learning models optimized for M1-M5 hardware using [MLX framework](https://mlx-framework.org).
