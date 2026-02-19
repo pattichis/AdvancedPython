@@ -2,7 +2,7 @@
 The repository's goal is to provide advanced Python examples.
 
 ## U-Map tutorials
-[UMAP for Supervised Dimension Reduction and Metric Learning](https://github.com/pattichis/AdvancedPython/blob/main/UMAP_supervised_dimension_reduction_and_metric_learning.ipynb)
+[UMAP for Supervised Dimension Reduction and Metric Learning translated tutorial](https://github.com/pattichis/AdvancedPython/blob/main/UMAP_supervised_dimension_reduction_and_metric_learning.ipynb)
 
 ## High-performance Python using Numba and Numba on Cuda
 [Speed up Python execution 10X to 50X with one line of code!](https://github.com/pattichis/AdvancedPython/blob/main/Decorators_and_Numba.ipynb) Demonstrates the use of @njit to speed up functions.
